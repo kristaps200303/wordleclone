@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorCorrect">#4CAF50</color>
+    <color name="colorPresent">#FFEB3B</color>
+    <color name="colorAbsent">#F44336</color>
+    <color name="cell_default_background">#00FFFFFF</color>
+</resources>
